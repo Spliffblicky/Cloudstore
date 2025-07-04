@@ -1,4 +1,4 @@
-package com.example.cloud.store.service;
+package com.example.cloud.store.Service;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.core.io.FileSystemResource;
